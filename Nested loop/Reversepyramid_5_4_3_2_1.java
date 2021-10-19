@@ -28,3 +28,10 @@ public class Reversepyramid_5_4_3_2_1 {
 	}
 
 }
+
+Output:
+5 4 3 2 1 
+5 4 3 2 
+5 4 3 
+5 4 
+5 
