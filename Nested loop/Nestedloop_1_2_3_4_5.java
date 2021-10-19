@@ -23,3 +23,9 @@ public class Nestedloop_1_2_3_4_5 {
 			}	
 		}
 }
+
+Output :
+1 2 3 4 5 
+1 2 3 4 5 
+1 2 3 4 5 
+1 2 3 4 5 
