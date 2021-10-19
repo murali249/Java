@@ -25,3 +25,10 @@ public class pyramid_1_2_3_4_5 {
 	}
 
 }
+
+Output:
+1 
+1 2 
+1 2 3 
+1 2 3 4 
+1 2 3 4 5 
