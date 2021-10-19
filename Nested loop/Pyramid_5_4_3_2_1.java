@@ -24,3 +24,10 @@ public class Pyramid_5_4_3_2_1 {
 	}
 
 }
+
+Output:
+5 
+5 4 
+5 4 3 
+5 4 3 2 
+5 4 3 2 1 
